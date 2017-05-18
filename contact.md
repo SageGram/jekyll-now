@@ -10,9 +10,7 @@ Hello I am Taisa Grant a customer support master and an aspirting professional t
 
 Email: tmgrant08@gmail.com
 
-## Email:
-
 Website: taisagrant.com
 
-## Website
+
 

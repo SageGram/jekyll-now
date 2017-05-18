@@ -12,4 +12,4 @@ I am also a front in web developer and a git operator with experience in version
 
 ### Contact me
 
-[email@domain.com](tmgrant08@gmail.com)
+[tmgrant08@gmail.com]

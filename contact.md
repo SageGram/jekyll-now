@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Taisa Grant
+Hello I am Taisa Grant a customer support master and an aspirting professional technical writer. I enjoy learning and writing about new and inovative tehcnology.
 
 # Contact Information
 
-tmgrant08@gmail.com
+Email: tmgrant08@gmail.com
 
-## Email 
+## Email:
 
-taisagrant.com
+Website: taisagrant.com
 
 ## Website
 

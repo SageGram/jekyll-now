@@ -3,6 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+Taisa Grant
+
 #Contact Information
-##Email: tmgrant08@gmail.com
-##Website:taisagrant.com
+
+tmgrant08@gmail.com
+
+##Email 
+
+taisagrant.com
+
+##Website
+

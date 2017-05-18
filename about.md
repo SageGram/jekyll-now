@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a customer success specialist. I provide all users with an exceptional experience by possesing the following characteristics, humble, empathetic and overall helpful.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am also a front in web developer and a git operator with experience in version control.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](tmgrant08@gmail.com)

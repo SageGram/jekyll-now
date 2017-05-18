@@ -6,13 +6,13 @@ permalink: /about/
 
 Taisa Grant
 
-#Contact Information
+# Contact Information
 
 tmgrant08@gmail.com
 
-##Email 
+## Email 
 
 taisagrant.com
 
-##Website
+## Website
 

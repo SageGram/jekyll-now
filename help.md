@@ -16,9 +16,14 @@ permalink: /about/
 
 ## -Heart
 
-## Favorite Color
--red
--blue
--orange
--green
--purple
+#Favorite Color
+
+## -red
+
+## -blue
+
+## -orange
+
+## -green
+
+## -purple

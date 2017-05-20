@@ -16,7 +16,7 @@ permalink: /about/
 
 ## -Heart
 
-#Favorite Color
+# Favorite Color
 
 ## -red
 

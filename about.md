@@ -12,4 +12,3 @@ I am also a front in web developer and a git operator with experience in version
 
 ### Contact me
 
-[tmgrant08@gmail.com]

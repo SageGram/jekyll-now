@@ -29,20 +29,24 @@ Eget dolor eu accumsan volutpat elit. Tellus sit adipisicing non nunc tempus dia
 
 ## Make A Zap
 
-### Click the neon orange button with white writing that says Make A Zap! 
+Click the neon orange button with white writing that says Make A Zap! 
 
 ## Trigger Setup 
 
 ### Choose GMAIL for the trigger app.
 
-### Gmail Trigger, Select New Email: Triggers when you receive a new email.
+### Select Email Trigger 
+
+Select New Email: Triggers when you receive a new email.
 
 ### Select a Gmail account.
 
 The Gmail account you choose is the drive you will use to create your google sheet doc.
 Once you select the account you will use and given Zapier access to your emails you ill see a Test button, click on that to make sure your email is working with Zapier. If it is you will see something like this a Success! button You then can press Continue.
 
-### Set Up Gmail Email from the drop down box choose Inbox 
+### Set Up Gmail Email 
+
+From the drop down box choose Inbox 
 
 ###  “Test Gmail
 

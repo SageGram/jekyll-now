@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Get Your New Emails From Your Gmail To A Google Sheet Using Zapier!
+title: How To Get Your New Emails From Your Gmail To A Google Sheet Using Zapier!
 ---
 ## Introduction 
 

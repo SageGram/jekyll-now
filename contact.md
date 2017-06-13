@@ -4,7 +4,7 @@ title: About
 permalink: /contact/
 ---
 
-Hello simple, I am Taisa Grant a customer support master and an aspirting professional technical writer. I enjoy learning and writing about new and inovative tehcnology.
+Hello simple, I am Taisa Grant a customer support master and an aspiring professional technical writer. I enjoy learning and writing about new and inovative tehcnology.
 
 # Contact Information
 

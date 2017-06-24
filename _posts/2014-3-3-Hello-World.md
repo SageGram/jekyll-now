@@ -15,13 +15,13 @@ Eget dolor eu accumsan volutpat elit. Tellus sit adipisicing non nunc tempus dia
 2. Trigger Setup
     1. Trigger App
     1. Gmail Trigger
-    1. Select Google Account***
+    1. Select Gmail Account
     1. Set Up Gmail
     1. Test Gmail
 3. Action Setup
     1. Action App
     1. Action App Trigger
-    1. Google Sheets Account
+    1. Select Google Sheets Account
     1. Set Up Spread Sheet Row
     1. Test Zap
 
@@ -41,17 +41,17 @@ Select: Gmail for the trigger app.
 
 Select: "New Email: Triggers when you receive a new email."
 
-### Select a Gmail account.***
+### Select Gmail Account
 
-The Gmail account you choose is the drive you will use to create your google sheet doc. Once you select the account you will use and given Zapier access to your emails you ill see a Test button, click on that to make sure your email is working with Zapier. If it is you will see something like this a Success! button You then can press Continue.
+The Gmail account you choose is the drive you will use to create your google sheet doc. Once you select the account you will use and given Zapier access to your emails you will need to click the test button to make sure your email is working with Zapier. Now that you see Success! You can press Continue.
 
 ### Set Up Gmail 
 
-Select: Inbox (From the drop down box) 
+Select: Inbox (from the drop down error) 
 
 ### “Test Gmail
 
-In order for this test to be Successful! You must have a new email in your inbox. ( if you don’t you can always send yourself an email.
+In order for the test to be succesful, you must have a new email in your inbox.  if you don’t you can always send yourself an email.
 Example: Joe85@gmail.com to Joe85@gmail.com
 
 ## Action Setup 
@@ -64,7 +64,7 @@ Select: Google Sheets for the action app.
 
 Select: “Create Spreadsheet Row” (for your Google Sheets Action.)
 
-### Google Sheets Account
+### Select Google Sheets Account
 
 Choose the same Gmail account you chose for your trigger app in the trigger setup section.
 For this step to be successful you must setup a google sheet in your Google drive.  

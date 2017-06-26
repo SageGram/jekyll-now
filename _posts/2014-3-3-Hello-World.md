@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Automattically Send New Emails From Gmail To A Google Sheet Using Zapier!
+title: How To Automate Sending New Emails From Gmail To A Google Sheet Using Zapier!
 ---
 ## Introduction 
 

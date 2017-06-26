@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Get Your New Emails From Your Gmail To A Google Sheet Using Zapier!
+title: How To Automattically Send New Emails From Gmail To A Google Sheet Using Zapier!
 ---
 ## Introduction 
 
@@ -16,7 +16,7 @@ Eget dolor eu accumsan volutpat elit. Tellus sit adipisicing non nunc tempus dia
     1. Trigger App
     1. Gmail Trigger
     1. Select Gmail Account
-    1. Set Up Gmail
+    1. Set Up Gmail Email
     1. Test Gmail
 3. Action Setup
     1. Action App
@@ -43,15 +43,19 @@ Select: "New Email: Triggers when you receive a new email."
 
 ### Select Gmail Account
 
-The Gmail account you choose is the drive you will use to create your google sheet doc. Once you select the account you will use and given Zapier access to your emails you will need to click the test button to make sure your email is working with Zapier. Now that you see Success! You can press Continue.
+ Once you select Your preffered Gmail Account and given Zapier access to your emails, you will need to click the test button to make sure your email is working with Zapier. Now that you see Success! You can click the Continue button.
 
-### Set Up Gmail 
+ Note: Later on make sure you choose the Google Drive account associated with the same Gmail Account you just chose.
 
-Select: Inbox (from the drop down error) 
+### Set Up Gmail Email
+
+Select: Inbox 
+
+By clicking on drop the down arrow on the right hand side of the box that has a sub-header that says "Label/Mailbox".
 
 ### “Test Gmail
 
-In order for the test to be succesful, you must have a new email in your inbox.  if you don’t you can always send yourself an email.
+In order for the test to be succesful, you must have a new email in your inbox.  Ff you don’t you can always send yourself an email.
 Example: Joe85@gmail.com to Joe85@gmail.com
 
 ## Action Setup 

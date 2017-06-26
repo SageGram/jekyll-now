@@ -13,17 +13,17 @@ Eget dolor eu accumsan volutpat elit. Tellus sit adipisicing non nunc tempus dia
 ## Table of Contents 
 1. Make A Zap
 2. Trigger Setup
-    1. Trigger App
-    1. Gmail Trigger
+    1. Choose a Trigger App
+    1. Select Gmail Trigger
     1. Select Gmail Account
     1. Set Up Gmail Email
     1. Test Gmail
 3. Action Setup
-    1. Action App
-    1. Action App Trigger
+    1. Choose an Action App
+    1. Select Google Sheets Action
     1. Select Google Sheets Account
-    1. Set Up Spread Sheet Row
-    1. Test Zap
+    1. Set Up Google Sheets Spreadsheet Row
+    1. Test Google Sheets
 
 ----------
 
@@ -33,11 +33,11 @@ Click the neon orange button with white writing that says Make A Zap!
 
 ## Trigger Setup 
 
-### Trigger App
+### Choose a Trigger App
 
 Select: Gmail for the trigger app.
 
-### Gmail Trigger 
+### Select Gmail Trigger 
 
 Select: "New Email: Triggers when you receive a new email."
 
@@ -60,11 +60,11 @@ Example: Joe85@gmail.com to Joe85@gmail.com
 
 ## Action Setup 
 
-### Action App
+### Choose an Action App
 
 Select: Google Sheets for the action app.
 
-### Action App Trigger
+### Select Google Sheets Action
 
 Select: “Create Spreadsheet Row” (for your Google Sheets Action.)
 
@@ -78,7 +78,7 @@ I recommend setting your Google sheet doc up with two columns for the header. (N
 Click the Test button to make sure the account is working properly with Zapier.
 Once you see Successful! Click Continue. 
 
-### Set Up Spreadsheet Row
+### Set Up Google Sheets Spreadsheet Row
 
  - Select the drop down arrow from Spreadsheet you should see and 
  - Select your google sheet title that you saved in step 3.
@@ -87,7 +87,7 @@ Once you see Successful! Click Continue.
  - Select the drop down arrow from the Email: Choose From Email
  - Click Continue. 
 
-### Test Zap
+### Test Google Sheets
  - Click the Test button, Once it comes back Test Successful 
 
  - Click the "Finish Button" switch your "Zap On".

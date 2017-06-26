@@ -43,7 +43,7 @@ Select: "New Email: Triggers when you receive a new email."
 
 ### Select Gmail Account
 
- Once you select Your preffered Gmail Account and given Zapier access to your emails, you will need to click the test button to make sure your email is working with Zapier. Now that you see Success! You can click the Continue button.
+ Once you select your preferred Gmail Account and given Zapier access to your emails, you will need to click the test button to make sure your email is working with Zapier. Now that you see Success! You can click the Continue button.
 
  Note: Later on make sure you choose the Google Drive account associated with the same Gmail Account you just chose.
 
@@ -55,7 +55,7 @@ By clicking on drop the down arrow on the right hand side of the box that has a 
 
 ### “Test Gmail
 
-In order for the test to be succesful, you must have a new email in your inbox.  Ff you don’t you can always send yourself an email.
+In order for the test to be succesful, you must have a new email in your inbox.  If you don’t you can always send yourself an email.
 Example: Joe85@gmail.com to Joe85@gmail.com
 
 ## Action Setup 

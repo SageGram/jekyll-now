@@ -66,13 +66,13 @@ Select: Google Sheets for the action app.
 
 ### Select Google Sheets Action
 
-Select: “Create Spreadsheet Row” (for your Google Sheets Action.)
+Select: "Create Spreadsheet Row: Create a new row in a specific spreadsheet"
 
 ### Select Google Sheets Account
 
-Choose the same Gmail account you chose for your trigger app in the trigger setup section.
-For this step to be successful you must setup a google sheet in your Google drive.  
-If you need help setting up your Google sheet see her _______link___
+Choose the same Gmail account you chose for your trigger app in the trigger setup section.For this step to be successful you must setup a google sheet in your Google drive.
+  
+If you need help setting up your Google sheet see how here: https://zapier.com/help/how-setup-your-google-spreadsheet-work-zapier/
 
 I recommend setting your Google sheet doc up with two columns for the header. (Name and Email) 
 Click the Test button to make sure the account is working properly with Zapier.

@@ -8,7 +8,7 @@ I am a Customer Success Champion. I provide all users with an exceptional experi
 
 ### More Information
 
-I am currently learning Front End Web Development.
+I am currently learning how to do front end web development.
 
 ### Contact me
 

@@ -72,8 +72,7 @@ Select: "Create Spreadsheet Row: Create a new row in a specific spreadsheet"
 
 Choose the same Gmail account you chose for your trigger app in the trigger setup section.For this step to be successful you must setup a google sheet in your Google drive.
 
-If you need help setting up your Google sheet see how to here: 
-[Help](https://zapier.com/help/how-setup-your-google-spreadsheet-work-zapier/)
+If you need help setting up your Google sheet see how to:[Here](https://zapier.com/help/how-setup-your-google-spreadsheet-work-zapier/)
 
 I recommend setting your Google sheet doc up with two columns for the header. (Name and Email) 
 Click the Test button to make sure the account is working properly with Zapier.

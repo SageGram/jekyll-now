@@ -4,11 +4,11 @@ title: How To Automate Sending New Emails From Gmail To A Google Sheet Using Zap
 ---
 ## Introduction 
 
-Sed est massa. Diam in ipsum. Mauris augue fermentum non donec lectus. Accumsan eget gravida eu consequat enim sit at gravida pede rhoncus curabitur. Maecenas fermentum sit. 
+Automation of day to day task can save you lots of precious time.  Using Zapier's free plan, we will create a Zap that sends new emails from a Gmail inbox to a Google spreadsheet. 
 
-Eget dolor eu accumsan volutpat elit. Tellus sit adipisicing non nunc tempus diam morbi.
+Below you will find a table of contents made up of the exact steps you must take to set up a Zap that will automatically update a pre-existing spreadsheet.
 
-----------
+---------
 
 ## Table of Contents 
 1. Make A Zap
@@ -57,7 +57,7 @@ Eget dolor eu accumsan volutpat elit. Tellus sit adipisicing non nunc tempus dia
 
 - In order for the test to be succesful, you must have a new email in your inbox.  If you don’t you can always send yourself an email.
 Example: Joe85@gmail.com to Joe85@gmail.com
-
+---------
 ## Action Setup 
 
 ### Choose an Action App

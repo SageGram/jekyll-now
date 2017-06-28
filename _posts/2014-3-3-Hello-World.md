@@ -57,7 +57,9 @@ Below you will find a table of contents made up of the exact steps you must take
 
 - In order for the test to be succesful, you must have a new email in your inbox.  If you don’t you can always send yourself an email.
 Example: Joe85@gmail.com to Joe85@gmail.com
----------
+
+----------
+
 ## Action Setup 
 
 ### Choose an Action App

@@ -29,62 +29,59 @@ Eget dolor eu accumsan volutpat elit. Tellus sit adipisicing non nunc tempus dia
 
 ## Make A Zap
 
-Click the neon orange button with white writing that says Make A Zap! 
+- Click the neon orange button with white writing that says Make A Zap! 
 
 ## Trigger Setup 
 
 ### Choose a Trigger App
 
-Select: Gmail for the trigger app.
+- Select: Gmail for the trigger app.
 
 ### Select Gmail Trigger 
 
-Select: "New Email: Triggers when you receive a new email."
+- Select: "New Email: Triggers when you receive a new email."
 
 ### Select Gmail Account
 
- Once you select your preferred Gmail Account and given Zapier access to your emails, you will need to click the test button to make sure your email is working with Zapier. Now that you see Success! You can click the Continue button.
+- Once you select your preferred Gmail Account and given Zapier access to your emails, you will need to click the test button to make sure your email is working with Zapier. Now that you see Success! You can click the Continue button.
 
  Note: Later on make sure you choose the Google Drive account associated with the same Gmail Account you just chose.
 
 ### Set Up Gmail Email
 
-Select: Inbox 
+- Select: Inbox 
 
-By clicking on drop the down arrow on the right hand side of the box that has a sub-header that says "Label/Mailbox".
+- By clicking on drop the down arrow on the right hand side of the box that has a sub-header that says "Label/Mailbox".
 
 ### “Test Gmail
 
-In order for the test to be succesful, you must have a new email in your inbox.  If you don’t you can always send yourself an email.
+- In order for the test to be succesful, you must have a new email in your inbox.  If you don’t you can always send yourself an email.
 Example: Joe85@gmail.com to Joe85@gmail.com
 
 ## Action Setup 
 
 ### Choose an Action App
 
-Select: Google Sheets for the action app.
+- Select: Google Sheets for the action app.
 
 ### Select Google Sheets Action
 
-Select: "Create Spreadsheet Row: Create a new row in a specific spreadsheet"
+- Select: "Create Spreadsheet Row: Create a new row in a specific spreadsheet"
 
 ### Select Google Sheets Account
 
-Choose the same Gmail account you chose for your trigger app in the trigger setup section.For this step to be successful you must setup a google sheet in your Google drive.
-
-If you need help setting up your Google sheet see how to:[Here](https://zapier.com/help/how-setup-your-google-spreadsheet-work-zapier/)
-
-I recommend setting your Google sheet doc up with two columns for the header. (Name and Email) 
-Click the Test button to make sure the account is working properly with Zapier.
-Once you see Successful! Click Continue. 
+- Choose the same gmail account you chose for your trigger app in the trigger setup section. For this step to be successful you must setup a google sheet in your Google drive.
+- If you need help setting up your Google sheet see how to: [Here](https://zapier.com/help/how-setup-your-google-spreadsheet-work-zapier/)
+- I recommend setting your google sheet up in two columns with headers set to Name and Email.
+- Once you set up your google sheet, click the Test button to make sure the account is working properly with zapier.
+- Once you see Successful! Click Continue. 
 
 ### Set Up Google Sheets Spreadsheet Row
 
- - Select the drop down arrow from Spreadsheet you should see and 
- - Select your google sheet title that you saved in step 3.
- - Select the drop down arrow from the Worksheet: Choose Worksheet 1
- - Select the drop down arrow from the Name: Choose From Name
- - Select the drop down arrow from the Email: Choose From Email
+ - Click the drop down arrow from the first box titled "Spreadsheet". You should     select the title of your recently saved google sheet.
+ - Click the drop down arrow from the "Worksheet": Select "Worksheet 1".
+ - Click the drop down arrow from the Name box: Select "From Name".
+ - Click the drop down arrow from the Email box: Select "From Email".
  - Click Continue. 
 
 ### Test Google Sheets

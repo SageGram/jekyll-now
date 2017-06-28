@@ -79,7 +79,7 @@ Example: Joe85@gmail.com to Joe85@gmail.com
 ### Set Up Google Sheets Spreadsheet Row
 
  - Click the drop down arrow from the first box titled "Spreadsheet". You should     select the title of your recently saved google sheet.
- - Click the drop down arrow from the "Worksheet": Select "Worksheet 1".
+ - Click the drop down arrow from the "Worksheet": Select "Sheet 1".
  - Click the drop down arrow from the Name box: Select "From Name".
  - Click the drop down arrow from the Email box: Select "From Email".
  - Click Continue. 

@@ -4,7 +4,7 @@ title: How To Automate Sending New Emails From Gmail To A Google Sheet Using Zap
 ---
 ## Introduction 
 
-Automation of day to day task can save you lots of precious time.  Using Zapier's free plan, we will create a Zap that sends new emails from a Gmail inbox to a Google spreadsheet. 
+Automation of day to day task can save you lots of precious time. Using Zapier's free plan, we will create a Zap that sends new emails from a Gmail Inbox to a Google Spreadsheet. 
 
 Below you will find a table of contents made up of the exact steps you must take to set up a Zap that will automatically update a pre-existing spreadsheet.
 
@@ -43,19 +43,17 @@ Below you will find a table of contents made up of the exact steps you must take
 
 ### Select Gmail Account
 
-- Once you select your preferred Gmail Account and given Zapier access to your emails, you will need to click the test button to make sure your email is working with Zapier. Now that you see Success! You can click the Continue button.
+- Once you selected your preferred Gmail Account and given Zapier access to your emails, you will need to click the test button to make sure your email is working with Zapier. Now that you see success you can click the continue button.
 
- Note: Later on make sure you choose the Google Drive account associated with the same Gmail Account you just chose.
+*Note: Later on make sure you choose the Google Drive account associated with the same Gmail Account you just chose.* 
 
 ### Set Up Gmail Email
 
-- Select: Inbox 
-
-- By clicking on drop the down arrow on the right hand side of the box that has a sub-header that says "Label/Mailbox".
+- Select: "Inbox" By clicking on drop the down arrow on the right-hand side of the box that has a sub-header that says "Label/Mailbox."
 
 ### “Test Gmail
 
-- In order for the test to be succesful, you must have a new email in your inbox.  If you don’t you can always send yourself an email.
+- For the test to be successful, you must have a new email in your inbox.  If you don’t, you can always send yourself an email.
 Example: Joe85@gmail.com to Joe85@gmail.com
 
 ----------
@@ -68,25 +66,25 @@ Example: Joe85@gmail.com to Joe85@gmail.com
 
 ### Select Google Sheets Action
 
-- Select: "Create Spreadsheet Row: Create a new row in a specific spreadsheet"
+- Select: "Create Spreadsheet Row: Create a new row in a specific spreadsheet."
 
 ### Select Google Sheets Account
 
-- Choose the same gmail account you chose for your trigger app in the trigger setup section. For this step to be successful you must setup a google sheet in your Google drive.
+- Choose the same Gmail account you chose for your trigger app in the trigger setup section. For this step to be successful, you must set up a Google sheet in your Google Drive.
 - If you need help setting up your Google sheet see how to: [Here](https://zapier.com/help/how-setup-your-google-spreadsheet-work-zapier/)
-- I recommend setting your google sheet up in two columns with headers set to Name and Email.
+- I recommend setting your Google sheet up in two columns with headers set to Name and Email.
 - Once you set up your google sheet, click the Test button to make sure the account is working properly with zapier.
-- Once you see Successful! Click Continue. 
+- Once you see successful, click Continue. 
 
 ### Set Up Google Sheets Spreadsheet Row
 
- - Click the drop down arrow from the first box titled "Spreadsheet". You should     select the title of your recently saved google sheet.
- - Click the drop down arrow from the "Worksheet": Select "Sheet 1".
- - Click the drop down arrow from the Name box: Select "From Name".
- - Click the drop down arrow from the Email box: Select "From Email".
- - Click Continue. 
+- Click the drop down arrow from the first box titled "Spreadsheet." You should select the title of your recently saved Google sheet.
+- Click the drop-down arrow on the "Worksheet": Select "Sheet 1".
+- Click the drop down arrow from the Name box: Select "From Name."
+- Click the drop down arrow from the Email box: Select "From Email."
+- Click Continue. 
+
 
 ### Test Google Sheets
- - Click the Test button, Once it comes back Test Successful 
-
- - Click the "Finish Button" switch your "Zap On".
+- Click the Test button, Once it comes back Test Successful 
+- Click the "Finish Button" switch your "Zap On."

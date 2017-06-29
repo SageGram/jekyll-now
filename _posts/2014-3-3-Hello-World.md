@@ -9,7 +9,6 @@ Automation of day to day task can save you lots of precious time. Using Zapier's
 Below you will find a table of contents made up of the exact steps you must take to set up a Zap that will automatically update a pre-existing spreadsheet.
 
 ---------
-
 ## Table of Contents 
 1. Make A Zap
 2. Trigger Setup
@@ -26,7 +25,6 @@ Below you will find a table of contents made up of the exact steps you must take
     1. Test Google Sheets
 
 ----------
-
 ## Make A Zap
 
 - Click the neon orange button with white writing that says Make A Zap! 
@@ -57,7 +55,6 @@ Below you will find a table of contents made up of the exact steps you must take
 Example: Joe85@gmail.com to Joe85@gmail.com
 
 ----------
-
 ## Action Setup 
 
 ### Choose an Action App
@@ -79,11 +76,10 @@ Example: Joe85@gmail.com to Joe85@gmail.com
 ### Set Up Google Sheets Spreadsheet Row
 
 - Click the drop down arrow from the first box titled "Spreadsheet." You should select the title of your recently saved Google sheet.
-- Click the drop-down arrow on the "Worksheet": Select "Sheet 1".
-- Click the drop down arrow from the Name box: Select "From Name."
-- Click the drop down arrow from the Email box: Select "From Email."
+- Click the drop-down arrow on the *Worksheet* box, select: "Sheet 1".
+- Click the drop down arrow from the *Name* box: Select: "From Name."
+- Click the drop down arrow from the *Email* box: Select: "From Email."
 - Click Continue. 
-
 
 ### Test Google Sheets
 - Click the Test button, Once it comes back Test Successful 

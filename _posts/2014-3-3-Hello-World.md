@@ -26,7 +26,6 @@ Below you will find a table of contents made up of the exact steps you must take
 
 ----------
 ## Make A Zap
-
 - Click the neon orange button with white writing that says Make A Zap! 
 
 ![explore.jpg](https://github.com/SageGram/sagegram.github.io/blob/master/images/explore.jpg)

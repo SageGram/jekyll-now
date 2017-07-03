@@ -36,9 +36,13 @@ Below you will find a table of contents made up of the exact steps you must take
 
 - Select: Gmail for the trigger app.
 
+![app.jpg](https:sagegram.github.io/images/app.jpg)
+
 ### Select Gmail Trigger 
 
 - Select: "New Email: Triggers when you receive a new email."
+
+![action.jpg](https:sagegram.github.io/images/action.jpg)
 
 ### Select Gmail Account
 

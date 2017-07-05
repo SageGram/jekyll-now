@@ -1,4 +1,4 @@
----
+     ---
 layout: post
 title: How To Automate Sending New Emails From Gmail To A Google Sheet Using Zapier!
 ---
@@ -59,7 +59,7 @@ Below you will find a table of contents made up of the exact steps you must take
 
 ![fields.jpg](https://sagegram.github.io/images/fields.jpg)
 
-![field one.jpg](https://sagegram.github.io/images/field one.jpg)
+![fieldsone.jpg](https://sagegram.github.io/images/fieldsone.jpg)
 
 ### “Test Gmail
 

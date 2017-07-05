@@ -28,7 +28,7 @@ Below you will find a table of contents made up of the exact steps you must take
 ## Make A Zap
 - Click the neon orange button with white writing that says Make A Zap! 
 
-![explore image](https:sagegram.github.io/images/explore.jpg)
+![explore image](https://sagegram.github.io/images/explore.jpg)
 
 ## Trigger Setup 
 
@@ -36,13 +36,13 @@ Below you will find a table of contents made up of the exact steps you must take
 
 - Select: Gmail for the trigger app.
 
-![app.jpg](https:sagegram.github.io/images/app.jpg)
+![app.jpg](https://sagegram.github.io/images/app.jpg)
 
 ### Select Gmail Trigger 
 
 - Select: "New Email: Triggers when you receive a new email."
 
-![action.jpg](https:sagegram.github.io/images/action.jpg)
+![action.jpg](https://sagegram.github.io/images/action.jpg)
 
 ### Select Gmail Account
 
@@ -50,14 +50,23 @@ Below you will find a table of contents made up of the exact steps you must take
 
 *Note: Later on make sure you choose the Google Drive account associated with the same Gmail Account you just chose.* 
 
+![auth.jpg](https://sagegram.github.io/images/auth.jpg)
+
+
 ### Set Up Gmail Email
 
 - Select: "Inbox" By clicking on drop the down arrow on the right-hand side of the box that has a sub-header that says "Label/Mailbox."
+
+![fields.jpg](https://sagegram.github.io/images/fields.jpg)
+
+![field one.jpg](https://sagegram.github.io/images/field one.jpg)
 
 ### “Test Gmail
 
 - For the test to be successful, you must have a new email in your inbox.  If you don’t, you can always send yourself an email.
 Example: Joe85@gmail.com to Joe85@gmail.com
+
+![sample.jpg](https://sagegram.github.io/images/sample.jpg)
 
 ----------
 ## Action Setup 
@@ -89,3 +98,4 @@ Example: Joe85@gmail.com to Joe85@gmail.com
 ### Test Google Sheets
 - Click the Test button, Once it comes back Test Successful 
 - Click the "Finish Button" switch your "Zap On."
+

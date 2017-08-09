@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Automate Sending New Emails From Gmail To A Google Sheet Using Zapier!
+title: How To Automate Sending New Emails From A Specific User To A Google Sheet Using Zapier!
 ---
 ## Introduction 
 
@@ -75,11 +75,17 @@ Example: Joe85@gmail.com to Joe85@gmail.com
 
 - Select: Google Sheets for the action app.
 
+![action1.jpg](https://sagegram.github.io/images/action1.jpg)
+
 ### Select Google Sheets Action
 
 - Select: "Create Spreadsheet Row: Create a new row in a specific spreadsheet."
 
+![setupaction.jpg](https://sagegram.github.io/images/setupaction.jpg)
+
 ### Select Google Sheets Account
+
+![authaction.jpg](https://sagegram.github.io/images/authaction.jpg)
 
 - Choose the same Gmail account you chose for your trigger app in the trigger setup section. For this step to be successful, you must set up a Google sheet in your Google Drive.
 - If you need help setting up your Google sheet see how to: [Here](https://zapier.com/help/how-setup-your-google-spreadsheet-work-zapier/)

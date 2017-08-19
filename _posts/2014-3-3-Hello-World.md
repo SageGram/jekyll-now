@@ -105,5 +105,10 @@ Example: Joe85@gmail.com to Joe85@gmail.com
 
 ### Test Google Sheets
 - Click the Test button, Once it comes back Test Successful 
+
+![sample2.jpg](https://sagegram.github.io/images/sample2.jpg)
+
 - Click the "Finish Button" switch your "Zap On."
+
+![overview.jpg](https://sagegram.github.io/images/overview.jpg)
 

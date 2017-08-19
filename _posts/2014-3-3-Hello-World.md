@@ -55,9 +55,9 @@ Below you will find a table of contents made up of the exact steps you must take
 
 ### Set Up Gmail Email
 
-- Select: "Inbox" By clicking on drop the down arrow on the right-hand side of the box that has a sub-header that says "Label/Mailbox."
-
 ![fields.jpg](https://sagegram.github.io/images/fields.jpg)
+
+- Select: "Inbox" By clicking on drop the down arrow on the right-hand side of the box that has a sub-header that says "Label/Mailbox."
 
 ![fieldsone.jpg](https://sagegram.github.io/images/fieldsone.jpg)
 

@@ -95,6 +95,8 @@ Example: Joe85@gmail.com to Joe85@gmail.com
 
 ### Set Up Google Sheets Spreadsheet Row
 
+![fields2.jpg](https://sagegram.github.io/images/fields2.jpg)
+
 - Click the drop down arrow from the first box titled "Spreadsheet." You should select the title of your recently saved Google sheet.
 - Click the drop-down arrow on the *Worksheet* box, select: "Sheet 1".
 - Click the drop down arrow from the *Name* box: Select: "From Name."

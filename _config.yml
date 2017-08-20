@@ -7,8 +7,10 @@ name: Taisa M Grant
 
 # Short bio or description (displayed in the header)
 
-description: Hello I am Taisa Grant I am a Customer Support enthusiast with a multidisciplinary skill set that leverages my ability to meet the needs of the customer. When working with clients, the goal is to practice active listening, empathy, and competence to ensure their success.
-I enjoy learning and writing about new and inovative technology.
+description:  # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://www.gravatar.com/avatar/cc1547ebf1e545454953461181d8aa72.jpg
@@ -23,7 +25,8 @@ footer-links:
   email: tmgrant08@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: 
+  SageGram/sagegram.github.io
   instagram:
   linkedin: https://www.linkedin.com/in/taisa-grant/
   pinterest:
